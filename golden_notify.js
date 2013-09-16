@@ -12,7 +12,7 @@ panel.style.padding='5px';
 
 document.body.appendChild(panel);
 
-panel.innerHTML="<button onclick=\"register()\">M'alerter des goldens</button>";
+panel.innerHTML="<button onclick=\"register()\">Notify me !</button>";
 
 function register()
 {
