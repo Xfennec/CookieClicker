@@ -1,3 +1,6 @@
+/*
+See https://github.com/Xfennec/CookieClicker
+*/
 
 var panel=document.createElement('div');
 panel.style.position='fixed';
