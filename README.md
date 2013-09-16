@@ -15,7 +15,7 @@ All you've to do is enter this code in your JavaScript console (F12, Ctrl+Shift+
 ```
 var js=document.createElement('script');
 js.setAttribute('src','https://raw.github.com/Xfennec/CookieClicker/master/golden_notify.js');
-document.body.appendChild(js)
+document.body.appendChild(js);
 ```
 
 Xfennec.
